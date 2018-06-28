@@ -1,6 +1,6 @@
 # Lomoencoder
 
-###Using Autoencoders with Analogue Photographs
+##Using Autoencoders with Analogue Photographs
 
 
 #### Introduction
